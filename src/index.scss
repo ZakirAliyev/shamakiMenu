@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-family: 'Poppins', sans-serif;
+  word-wrap: break-word;
+}
+
+body {
+  background-color: #637f3d;
+  -webkit-tap-highlight-color: transparent;
+  overflow-x: hidden;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+button, a, .link {
+  transition: all .2s ease;
+}
+.container {
+  max-width: 1320px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+button{
+  cursor: pointer;
+}
+@for $i from 1 through 60 {
+  .col-#{$i}-60 {
+    width: calc(100% / 60 * #{$i});
+    padding: 16px;
+  }
+}
+
+
+@media screen and (max-width: 992px) and (min-width: 768px) {
+  @for $i from 1 through 60 {
+    .col-md-#{$i}-60 {
+      width: calc(100% / 60 * #{$i});
+      padding: 16px;
+    }
+  }
+}
+
+@media screen and (max-width: 768px) and (min-width: 576px) {
+  @for $i from 1 through 60 {
+    .col-sm-#{$i}-60 {
+      width: calc(100% / 60 * #{$i});
+      padding: 16px;
+    }
+  }
+}
+
+@media screen and (max-width: 576px) {
+  @for $i from 1 through 60 {
+    .col-xs-#{$i}-60 {
+      width: calc(100% / 60 * #{$i});
+      padding: 16px;
+    }
+  }
+}

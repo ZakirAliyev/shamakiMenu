@@ -1,0 +1,360 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "clinics": "Clinics",
+    "about": "About Us",
+    "contact": "Contact",
+    "languages": {
+      "az": "Azerbaijani",
+      "en": "English",
+      "ru": "Russian"
+    }
+  },
+  "footer": {
+    "logoAlt": "Kliniken Allianz Logo",
+    "description": "We think and plan every detail for you, from the treatment process to flights, visa support, and accommodation.",
+    "links": "Links",
+    "contactTitle": "Contact Information",
+    "call": "Call Us",
+    "phone": "+994 70 765 43 89",
+    "mail": "Write to Us",
+    "email": "klinikenallianz@gmail.com",
+    "copyright": "© 2025 Kliniken Allianz. All rights reserved.",
+    "createdBy": "Created by:"
+  },
+  "homeBanner": {
+    "title": "Open the Way to the World's Best Clinics",
+    "description": "Regain your health with state-of-the-art medical services and convenient travel opportunities.",
+    "button": "Explore",
+    "imageAlt": "Home Page Image",
+    "bannerAlt": "Home Page Banner"
+  },
+  "homeServices": {
+    "title": "Medical Service Categories We Offer",
+    "description": "Discover medical service areas tailored to your needs.",
+    "videoAlt": "Services Video",
+    "cards": {
+      "cancer": {
+        "name": "Cancer Treatment",
+        "description": "USA"
+      },
+      "oftamologiya": {
+        "name": "Ophthalmology",
+        "description": "Bangkok"
+      },
+      "ginekologiya": {
+        "name": "Gynecology",
+        "description": "Istanbul"
+      },
+      "hepatologiya": {
+        "name": "Hepatology",
+        "description": "Singapore"
+      },
+      "travmatologiya": {
+        "name": "Traumatology",
+        "description": "Bangkok"
+      },
+      "onurga": {
+        "name": "Cardiology",
+        "description": "Berlin"
+      }
+    }
+  },
+  "homeServiceCard": {
+    "description": "The latest cancer treatment methods to improve your quality of life.",
+    "button": "Learn More",
+    "iconAlt": "{name} Icon"
+  },
+  "homeClinic": {
+    "title": "Trusted Healthcare Centers",
+    "description": "Kliniken Allianz collaborates only with modern and reliable clinics that meet international standards.",
+    "prevButton": "Previous Slide",
+    "nextButton": "Next Slide",
+    "slideAriaLabel": "Go to slide {slideNumber}",
+    "cardImgAlt": "{name} Image",
+    "cards": {
+      "universitatsklinikum": {
+        "name": "Universitätsklinikum",
+        "description": "Frankfurt, Germany"
+      },
+      "cleveland": {
+        "name": "Cleveland Clinic",
+        "description": "USA"
+      },
+      "anadolu": {
+        "name": "GlobalMed",
+        "description": "Turkey"
+      },
+      "bumrungrad": {
+        "name": "Bumrungrad",
+        "description": "Thailand"
+      },
+      "hospitalUniversitario": {
+        "name": "Hospital Universitario",
+        "description": "Madrid, Spain"
+      },
+      "singapore": {
+        "name": "Singapore Hospital",
+        "description": "Singapore"
+      }
+    }
+  },
+  "homeHotel": {
+    "title": "Hotel Options Near Clinics",
+    "slideAriaLabel": "Go to slide {slideNumber}",
+    "cardImgAlt": "{name} Image",
+    "cards": {
+      "ritzCarlton": {
+        "name": "The Ritz-Carlton",
+        "description": "USA"
+      },
+      "westinGrand": {
+        "name": "The Westin Grand",
+        "description": "Berlin"
+      },
+      "crownePlaza": {
+        "name": "Crowne Plaza",
+        "description": "Istanbul"
+      },
+      "siamKempinski": {
+        "name": "Siam Kempinski",
+        "description": "Bangkok"
+      },
+      "raffles": {
+        "name": "Raffles Hotel",
+        "description": "Singapore"
+      },
+      "mandarinOriental": {
+        "name": "Mandarin Oriental",
+        "description": "Bangkok"
+      }
+    }
+  },
+  "homeBestServ": {
+    "title": "Most Popular Services",
+    "prevButton": "Previous Slide",
+    "nextButton": "Next Slide",
+    "slideAriaLabel": "Go to slide {slideNumber}",
+    "cardImgAlt": "{name} Image",
+    "cardIconAlt": "{name} Icon",
+    "cards": {
+      "cancer": {
+        "name": "Cancer Treatment",
+        "description": "USA"
+      },
+      "kardiologiya": {
+        "name": "Cardiology",
+        "description": "Berlin"
+      },
+      "realibitasiya": {
+        "name": "Rehabilitation",
+        "description": "Istanbul"
+      },
+      "oftamologiya": {
+        "name": "Ophthalmology",
+        "description": "Bangkok"
+      },
+      "hepatologiya": {
+        "name": "Hepatology",
+        "description": "Singapore"
+      },
+      "travmatologiya": {
+        "name": "Traumatology",
+        "description": "Bangkok"
+      }
+    }
+  },
+  "bestServCard": {
+    "button": "Read More"
+  },
+  "homeComment": {
+    "title": "Those Who Trust Us",
+    "desc": "Experiences and opinions of people who chose us for their treatment and health journey.",
+    "backgroundAriaLabel": "Background image of the customer reviews section",
+    "comments": {
+      "aytacM": {
+        "name": "Aytaç M",
+        "country": "Azerbaijan",
+        "text": "The treatment process was very comfortable and stress-free. Everything was pre-organized – transfer, hotel, hospital. The doctors and staff were very attentive! Most importantly, I felt safe."
+      }
+    }
+  },
+  "translation": {
+    "comments": [
+      {
+        "text": "This platform is truly incredible! Every service is organized at the highest level, it’s very user-friendly, and offers solutions tailored to everyone’s needs. The support team is always there for you and responds to your questions immediately. This isn’t just a platform; it’s a complete experience!"
+      },
+      {
+        "text": "A truly useful and easy-to-use service. The interface is so simple and intuitive that even beginners have no trouble. Every function is thoughtfully designed and saves users’ time. This platform will significantly simplify your life!"
+      },
+      {
+        "text": "My experience was absolutely fantastic! The quality of services, the professionalism of the staff, and the attention to detail amazed me. I felt special at every step, and the entire process was very smooth. This platform is worth trying!"
+      },
+      {
+        " pats": [
+          {
+            "text": "The treatment process was incredibly comfortable and stress-free. Everything, from transportation to hotel and hospital services, was perfectly planned in advance. The care and professionalism of the doctors and staff impressed me greatly. I felt safe and in reliable hands at all times, which is the greatest advantage!"
+          },
+          {
+            "text": "This platform is simply magnificent! With an extremely user-friendly interface, high-quality services, and a responsive support team, it meets everyone’s needs. Every detail is designed with user convenience in mind, making it unique. I recommend everyone to experience this!"
+          },
+          {
+            "text": "The treatment process was completely stress-free and comfortable. Transportation, hotel, and hospital services were perfectly organized in advance, which made me very satisfied. Thanks to the professionalism and caring attitude of the doctors and staff, I felt safe at all times. I wholeheartedly recommend this service to everyone!"
+          }
+        ]
+      },
+      "aboutUs": {
+        "title": "About Us",
+        "breadcrumb": {
+          "home": "Home",
+          "about": "About Us"
+        },
+        "section1": {
+          "title": "With You Every Step: High-Quality Medical Services",
+          "description": "From flight tickets to visa support, we pay attention to every detail to make your health journey easy and safe. With us, you are assured reliable and professional service at every step.",
+          "contactButton": "Get in Touch"
+        },
+        "section2": {
+          "title": "Why Kliniken Allianz?",
+          "description": "At Kliniken Allianz, we collaborate with the best medical institutions in various countries in the field of health tourism.",
+          "_cards": {
+            "consultation": {
+              "title": "Professional Medical Consultation",
+              "description": "Direct contact with renowned clinics and highly qualified doctors in various countries."
+            },
+            "partnership": {
+              "title": "Collaboration with International Clinics",
+              "description": "Official partnerships with leading medical centers in various countries."
+            },
+            "travel": {
+              "title": "Comfortable and Safe Travel",
+              "description": "Complete organization of flight tickets, transfers, hotels, interpreters, and all other needs."
+            },
+            "pricing": {
+              "title": "Transparent Pricing and Official Documentation",
+              "description": "All services are offered officially, with no hidden costs."
+            }
+          }
+        },
+        "bannerAlt": "About Us Banner"
+      },
+      "contact": {
+        "title": "Contact",
+        "breadcrumb": {
+          "home": "Home",
+          "contact": "Contact"
+        },
+        "main": {
+          "title": "Ready to Help",
+          "description": "You can easily contact us for all your questions regarding medical tourism. Our expert team will provide you with suitable solutions."
+        },
+        "contactCard": {
+          "mobile": {
+            "title": "Mobile",
+            "value": "+994 50 123 45 67"
+          },
+          "email": {
+            "title": "Email",
+            "value": "info@kliniken-allianz.az"
+          },
+          "address": {
+            "title": "Address",
+            "value": "Nizami Street 45, Baku, Azerbaijan"
+          }
+        },
+        "form": {
+          "title": "Contact Us by Filling Out the Form",
+          "labels": {
+            "name": "Name",
+            "surname": "Surname",
+            "email": "Email",
+            "phone": "Phone",
+            "description": "Note"
+          },
+          "placeholders": {
+            "name": "Enter your name",
+            "surname": "Enter your surname",
+            "email": "example@gmail.com",
+            "phone": "+994 99 999 99 99",
+            "description": ""
+          },
+          "button": "Send",
+          "errors": {
+            "firstNameRequired": "Please enter your name",
+            "lastNameRequired": "Please enter your surname",
+            "emailRequired": "Please enter your email",
+            "emailInvalid": "Please enter a valid email",
+            "phoneRequired": "Please enter your phone number",
+            "descriptionRequired": "Please enter your message"
+          }
+        },
+        "bannerAlt": "Contact Banner"
+      },
+      "categoryDetail": {
+        "breadcrumb": {
+          "home": "Home",
+          "category": "Categories"
+        },
+        "firstSection": {
+          "title": "Cardiovascular Surgery",
+          "description": "Heart and vascular diseases are among the most common health problems worldwide. At Kliniken Allianz, we collaborate with internationally experienced doctors and high-tech clinics specialized in this field.",
+          "button": "Apply",
+          "bannerAlt": "Category Banner"
+        },
+        "secondSection": {
+          "title": "Cleveland Clinic",
+          "description": "Cleveland Clinic is a trusted and renowned medical center providing world-class services in the treatment of cardiovascular diseases with advanced technologies and a professional medical team.",
+          "imageAlt": "Cleveland Clinic Image",
+          "button": "View All"
+        },
+        "thirdSection": {
+          "title": "Johns Hopkins Medicine",
+          "description": "Johns Hopkins is a globally recognized medical research and treatment center, applying advanced treatment methods in cardiovascular diseases and surgery.",
+          "imageAlt": "Johns Hopkins Image",
+          "button": "View All"
+        },
+        "contact": {
+          "form": {
+            "title": "If you are facing any difficulties, please contact us.",
+            "labels": {
+              "email": "Email",
+              "description": "Note"
+            },
+            "placeholders": {
+              "email": "example@gmail.com",
+              "description": ""
+            },
+            "button": "Send",
+            "errors": {
+              "emailRequired": "Please enter your email",
+              "emailInvalid": "Please enter a valid email",
+              "descriptionRequired": "Please enter your message"
+            }
+          },
+          "imageAlt": "Contact Image"
+        },
+        "services": {
+          "title": "Other Categories",
+          "description": "Benefit from our services offered in various medical fields at international-level clinics."
+        },
+        "cards": {
+          "cancer": {
+            "name": "Cancer Treatment",
+            "description": "USA"
+          },
+          "oftamologiya": {
+            "name": "Ophthalmology",
+            "description": "Bangkok"
+          },
+          "ginekologiya": {
+            "name": "Gynecology",
+            "description": "Istanbul"
+          },
+          "hepatologiya": {
+            "name": "Hepatology",
+            "description": "Singapore"
+          }
+        }
+      }
+      }

@@ -1,0 +1,207 @@
+#menu-page {
+  width: 100%;
+  height: 100dvh;
+  background-color: white;
+  overflow-y: auto;
+  overflow-x: hidden !important;
+  @media screen and (max-width: 576px) {
+    overflow-x: hidden;
+  }
+
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+    @media screen and (min-width: 1200px) {
+      max-width: 100%;
+    }
+  }
+
+  .header {
+    width: 100%;
+    padding: 35px 0;
+    background: #637f3d;
+    position: relative;
+    @media screen and (max-width: 576px) {
+      padding: 15px 0;
+    }
+    h2 {
+      color: #fff;
+      text-align: center;
+      font-family: 'Playfair Display';
+      font-size: 32px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+      letter-spacing: 1.28px;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+      @media screen and (max-width: 576px) {
+        margin-bottom: 6px;
+        font-size: 24px;
+      }
+    }
+    div {
+      text-align: center;
+    }
+    .back {
+      position: absolute;
+      bottom: 25px;
+      left: 65px;
+      z-index: 999999999;
+      cursor: pointer;
+      transition: transform 0.2s ease;
+      &:hover {
+        transform: scale(1.1);
+      }
+      @media screen and (max-width: 576px) {
+        top: 20px;
+        left: 25px;
+        .back-icon {
+          width: 25px !important;
+          height: 25px !important;
+        }
+      }
+    }
+    .down-xett {
+      @media screen and (max-width: 576px) {
+        width: 200px;
+      }
+    }
+    .buta {
+      transform: rotate(60deg);
+      position: absolute;
+      right: -50px;
+      top: -100px;
+      @media screen and (max-width: 576px) {
+        display: none;
+      }
+    }
+    .buta2 {
+      position: absolute;
+      left: -50px;
+      top: -100px;
+      @media screen and (max-width: 576px) {
+        display: none;
+      }
+    }
+  }
+
+  .menu-items {
+    .menu-item {
+      padding: 15px 60px 10px;
+      border-bottom: 1px solid #ddd;
+      transition: background-color 0.3s ease, box-shadow 0.3s ease;
+      @media screen and (max-width: 576px) {
+        padding: 20px 30px;
+      }
+      &.odd-item {
+        background: #ebf3e0;
+      }
+
+      .item-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        cursor: pointer;
+        font-size: 18px;
+        padding:  0;
+        gap: 16px; // Add gap for spacing between image, name, and price-toggle
+
+        .item-image {
+          flex: 0 0 auto; // Prevent image from stretching
+          img {
+            width: 60px;
+            height: 60px;
+            object-fit: cover; // Ensure image fits nicely
+            border-radius: 4px; // Optional: slight rounding
+          }
+          .image-placeholder {
+            width: 60px;
+            height: 60px;
+            background-color: #e0e0e0; // Gray placeholder like in the screenshot
+            border-radius: 4px; // Optional: slight rounding
+          }
+        }
+
+        .item-name {
+          flex: 1; // Allow name to take remaining space
+          color: #1f1b15;
+          text-align: left;
+          font-family: 'Playfair Display';
+          font-size: 18px;
+          font-style: normal;
+          font-weight: 500;
+          line-height: normal;
+          letter-spacing: 0.72px;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+
+        .price-toggle {
+          display: flex;
+          align-items: center;
+          gap: 16px;
+          @media screen and (max-width: 576px) {
+            gap: 8px;
+          }
+        }
+
+        .item-price {
+          white-space: nowrap;
+          text-align: right;
+          width: max-content;
+          color: #1f1b15;
+          font-family: 'Playfair Display'   ;
+          font-size: 18px;
+          font-style: normal;
+          font-weight: bold;
+          line-height: 27px;
+          letter-spacing: 0.72px;
+        }
+
+        .toggle-icon {
+          transition: transform 0.4s ease-in-out;
+        }
+
+        .toggle-icon.open {
+          transform: rotate(180deg);
+        }
+      }
+
+      .item-description {
+        max-height: 0;
+        overflow: hidden;
+        color: #000;
+        font-family: 'Playfair';
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 21px;
+        letter-spacing: 0.64px;
+        opacity: 0;
+        transition: max-height 0.4s ease-in-out, padding 0.4s ease-in-out, opacity 0.4s ease-in-out;
+        &.open {
+          padding: 15px 0;
+          opacity: 1;
+        }
+      }
+    }
+  }
+
+  .additional-header {
+    width: 100%;
+    padding: 25px 0;
+    background: #637f3d;
+    color: #fff;
+    text-align: center;
+    font-family: 'Playfair Display';
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: uppercase;
+    @media screen and (max-width: 576px) {
+      font-size: 16px;
+    }
+  }
+}

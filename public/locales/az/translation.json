@@ -1,0 +1,358 @@
+{
+  "navbar": {
+    "home": "Ana səhifə",
+    "services": "Xidmətlər",
+    "clinics": "Klinikalar",
+    "about": "Haqqımızda",
+    "contact": "Əlaqə",
+    "languages": {
+      "az": "Azərbaycan",
+      "en": "İngilis",
+      "ru": "Rus"
+    }
+  },
+  "footer": {
+    "logoAlt": "Kliniken Allianz Loqosu",
+    "description": "Müalicə prosesi, uçuş, viza dəstəyi və qalacaq yer kimi bütün detalları sizin üçün düşünür və planlayırıq.",
+    "links": "Keçidlər",
+    "contactTitle": "Əlaqə məlumatları",
+    "call": "Bizə zəng edin",
+    "phone": "+994 70 765 43 89",
+    "mail": "Bizə yazın",
+    "email": "klinikenallianz@gmail.com",
+    "copyright": "© 2025 Kliniken Allianz. Bütün hüquqlar qorunur.",
+    "createdBy": "Yaradılıb:"
+  },
+  "homeBanner": {
+    "title": "Dünyanın Ən Yaxşı Klinikalarına Yol Açın",
+    "description": "Ən müasir tibbi xidmətlər və rahat səyahət imkanları ilə sağlığınızı yenidən qazanın.",
+    "button": "Keşf edin",
+    "imageAlt": "Ana Səhifə Şəkli",
+    "bannerAlt": "Ana Səhifə Banneri"
+  },
+  "homeServices": {
+    "title": "Sizə Təklif Etdiyimiz Tibbi Xidmət Kateqoriyaları",
+    "description": "Sizin ehtiyaclarınıza uyğun tibbi xidmət sahələrini kəşf edin.",
+    "videoAlt": "Xidmətlər Videosu",
+    "cards": {
+      "cancer": {
+        "name": "Xərçəng müalicəsi",
+        "description": "ABŞ"
+      },
+      "oftamologiya": {
+        "name": "Oftamologiya",
+        "description": "Banqkok"
+      },
+      "ginekologiya": {
+        "name": "Ginekologiya",
+        "description": "İstanbul"
+      },
+      "hepatologiya": {
+        "name": "Hepatologiya",
+        "description": "Sinqapur"
+      },
+      "travmatologiya": {
+        "name": "Travmatologiya",
+        "description": "Banqkok"
+      },
+      "onurga": {
+        "name": "Kardiologiya",
+        "description": "Berlin"
+      }
+    }
+  },
+  "homeServiceCard": {
+    "description": "Həyat keyfiyyətinizi yüksəltmək üçün ən yeni xərçəng müalicə üsulları.",
+    "button": "Ətraflı bax",
+    "iconAlt": "{name} İkonu"
+  },
+  "homeClinic": {
+    "title": "Etibar Edilən Sağlamlıq Mərkəzləri",
+    "description": "Kliniken Allianz yalnız beynəlxalq standartlara cavab verən, müasir və etibarlı klinikalarla əməkdaşlıq edir.",
+    "prevButton": "Əvvəlki Slayd",
+    "nextButton": "Növbəti Slayd",
+    "slideAriaLabel": "{slideNumber}-ci slayda keç",
+    "cardImgAlt": "{name} Şəkli",
+    "cards": {
+      "universitatsklinikum": {
+        "name": "Universitätsklinikum",
+        "description": "Frankfurt, Almaniya"
+      },
+      "cleveland": {
+        "name": "Cleveland Clinic",
+        "description": "ABŞ"
+      },
+      "anadolu": {
+        "name": "GlobalMed",
+        "description": "Türkiyə"
+      },
+      "bumrungrad": {
+        "name": "Bumrungrad",
+        "description": "Tailand"
+      },
+      "hospitalUniversitario": {
+        "name": "Hospital Universitario",
+        "description": "Madrid, İspaniya"
+      },
+      "singapore": {
+        "name": "Singapore Hospital",
+        "description": "Sinqapur"
+      }
+    }
+  },
+  "homeHotel": {
+    "title": "Klinikalara Yaxın Otel Seçimləri",
+    "slideAriaLabel": "{slideNumber}-ci slayda keç",
+    "cardImgAlt": "{name} Şəkli",
+    "cards": {
+      "ritzCarlton": {
+        "name": "The Ritz-Carlton",
+        "description": "ABŞ"
+      },
+      "westinGrand": {
+        "name": "The Westin Grand",
+        "description": "Berlin"
+      },
+      "crownePlaza": {
+        "name": "Crowne Plaza",
+        "description": "İstanbul"
+      },
+      "siamKempinski": {
+        "name": "Siam Kempinski",
+        "description": "Banqkok"
+      },
+      "raffles": {
+        "name": "Raffles Hotel",
+        "description": "Sinqapur"
+      },
+      "mandarinOriental": {
+        "name": "Mandarin Oriental",
+        "description": "Banqkok"
+      }
+    }
+  },
+  "homeBestServ": {
+    "title": "Ən çox seçilən xidmətlər",
+    "prevButton": "Əvvəlki Slayd",
+    "nextButton": "Növbəti Slayd",
+    "slideAriaLabel": "{slideNumber}-ci slayda keç",
+    "cardImgAlt": "{name} Şəkli",
+    "cardIconAlt": "{name} İkonu",
+    "cards": {
+      "cancer": {
+        "name": "Xərçəng müalicəsi",
+        "description": "ABŞ"
+      },
+      "kardiologiya": {
+        "name": "Kardiologiya",
+        "description": "Berlin"
+      },
+      "realibitasiya": {
+        "name": "Realibitasiya",
+        "description": "İstanbul"
+      },
+      "oftamologiya": {
+        "name": "Oftamologiya",
+        "description": "Banqkok"
+      },
+      "hepatologiya": {
+        "name": "Hepatologiya",
+        "description": "Sinqapur"
+      },
+      "travmatologiya": {
+        "name": "Travmatologiya",
+        "description": "Banqkok"
+      }
+    }
+  },
+  "bestServCard": {
+    "button": "Ətraflı oxu"
+  },
+  "homeComment": {
+    "title": "Bizə Güvənənlər",
+    "desc": "Müalicə və sağlamlıq səyahətində bizi seçən insanların təcrübələri və fikirləri.",
+    "backgroundAriaLabel": "Müştəri rəyləri bölməsinin fon şəkli",
+    "comments": {
+      "aytacM": {
+        "name": "Aytaç M",
+        "country": "Azərbaycan",
+        "text": "Müalicə prosesi çox rahat və stressiz keçdi. Hər şey əvvəlcədən təşkil olunmuşdu – transfer, otel, xəstəxana. Həkimlər və personal çox diqqətli idi! Ən əsası özümü təhlükəsiz hiss etdim."
+      }
+    }
+  },
+  "translation": {
+    "comments": [
+      {
+        "text": "Bu platform həqiqətən inanılmazdır! Hər bir xidmət ən yüksək səviyyədə təşkil olunub, istifadəsi çox rahatdır və hər kəsin ehtiyaclarına uyğun həllər təklif edir. Dəstək komandası hər an yanınızdadır və suallarınıza dərhal cavab verir. Bu, sadəcə bir platforma deyil, tam bir təcrübədir!"
+      },
+      {
+        "text": "Həqiqətən faydalı və istifadəsi asan bir xidmətdir. İnterfeys o qədər sadə və başa düşüləndir ki, hətta yeni başlayanlar belə heç bir çətinlik çəkmir. Hər bir funksiya düşünülmüş şəkildə dizayn edilib və istifadəçilərin vaxtına qənaət edir. Bu platforma həyatınızı xeyli asanlaşdıracaq!"
+      },
+      {
+        "text": "Təcrübəm tamamilə fantastik oldu! Xidmətlərin keyfiyyəti, personalın peşəkarlığı və detallara göstərilən diqqət məni heyran etdi. Hər addımda özümü xüsusi hiss etdim və bütün proses çox rahat keçdi. Bu platformanı sınamağa dəyər!"
+      },
+      {
+        "text": "Müalicə prosesi inanılmaz dərəcədə rahat və stressiz idi. Nəqliyyatdan tutmuş otel və xəstəxana xidmətlərinə qədər hər şey əvvəlcədən mükəmməl planlaşdırılmışdı. Həkimlər və personalın qayğıkeşliyi, peşəkarlığı məni çox təsirləndirdi. Özümü hər an təhlükəsiz və etibarlı əllərdə hiss etdim, bu isə ən böyük üstünlükdür!"
+      },
+      {
+        "text": "Bu platforma sadəcə möhtəşəmdir! İstifadəsi son dərəcə asan olan interfeys, yüksək keyfiyyətli xidmətlər və operativ dəstək komandası ilə hər kəsin ehtiyaclarına cavab verir. Hər bir detal istifadəçi rahatlığı nəzərə alınaraq düşünülüb, bu da onu bənzərsiz edir. Hər kəsə bu təcrübəni yaşamağı tövsiyə edirəm!."
+      },
+      {
+        "text": "Müalicə prosesi tamamilə stressiz və rahat keçdi. Nəqliyyat, otel və xəstəxana xidmətləri əvvəlcədən mükəmməl şəkildə təşkil olunmuşdu, bu da məni çox məmnun etdi. Həkimlər və personalın peşəkarlığı, qayğıkeş münasibəti sayəsində özümü hər an təhlükəsiz hiss etdim. Bu xidməti hamıya ürəkdən tövsiyə edirəm!"
+      }
+    ]
+  },
+  "aboutUs": {
+    "title": "Haqqımızda",
+    "breadcrumb": {
+      "home": "Ana səhifə",
+      "about": "Haqqımızda"
+    },
+    "section1": {
+      "title": "Hər Addımda Sizinlə: Yüksək Keyfiyyətli Tibbi Xidmətlər",
+      "description": "Aviasiya biletlərindən viza dəstəyinə qədər hər detala diqqət yetirərək, sağlamlıq yolculuğunuzu asan və təhlükəsiz bir şəkildə reallaşdırırıq. Bizimlə olan hər addımınızda sizi etibarlı və peşəkar bir xidmət gözləyir.",
+      "contactButton": "Bizimlə əlaqəyə keç"
+    },
+    "section2": {
+      "title": "Niyə Kliniken Allianz?",
+      "description": "Kliniken Allianz olaraq, sağlamlıq turizmi sahəsində fərqli ölkələrdəki ən yaxşı tibbi müəssisələrlə əməkdaşlıq edirik.",
+      "cards": {
+        "consultation": {
+          "title": "Peşəkar Tibbi Konsultasiya",
+          "description": "Müxtəlif ölkələrdə tanınmış klinikalar və yüksək ixtisaslı həkimlərlə birbaşa əlaqə imkanı."
+        },
+        "partnership": {
+          "title": "Beynəlxalq Klinikalarla Əməkdaşlıq",
+          "description": "Ölkələrin aparıcı tibb mərkəzləri ilə rəsmi tərəfdaşlıq."
+        },
+        "travel": {
+          "title": "Rahat və Təhlükəsiz Səyahət",
+          "description": "Aviabilet, transfer, otel, tərcüməçi və digər bütün ehtiyacların tam təşkili."
+        },
+        "pricing": {
+          "title": "Şəffaf Qiymət və Rəsmi Sənədləşmə",
+          "description": "Bütün xidmətlər rəsmi şəkildə, gizli xərclər olmadan təklif olunur."
+        }
+      }
+    },
+    "bannerAlt": "Haqqımızda Banneri"
+  },
+  "contact": {
+    "title": "Əlaqə",
+    "breadcrumb": {
+      "home": "Ana səhifə",
+      "contact": "Əlaqə"
+    },
+    "main": {
+      "title": "Kömək etməyə hazırıq",
+      "description": "Tibbi turizmlə bağlı bütün suallarınız üçün bizimlə rahatlıqla əlaqə saxlaya bilərsiniz. Mütəxəssis komandamız sizə uyğun həll yollarını təqdim edəcək."
+    },
+    "contactCard": {
+      "mobile": {
+        "title": "Mobil",
+        "value": "+994 50 123 45 67"
+      },
+      "email": {
+        "title": "Email",
+        "value": "info@kliniken-allianz.az"
+      },
+      "address": {
+        "title": "Ünvan",
+        "value": "Nizami küçəsi 45, Bakı, Azərbaycan"
+      }
+    },
+    "form": {
+      "title": "Formu dolduraraq bizimlə əlaqə saxlayın",
+      "labels": {
+        "name": "Ad",
+        "surname": "Soyad",
+        "email": "Email",
+        "phone": "Nömrə",
+        "description": "Qeyd"
+      },
+      "placeholders": {
+        "name": "Adınızı daxil edin",
+        "surname": "Soyadınızı daxil edin",
+        "email": "examle@gmail.com",
+        "phone": "+994 99 999 99 99",
+        "description": ""
+      },
+      "button": "Göndər",
+      "errors": {
+        "firstNameRequired": "Adınızı daxil edin",
+        "lastNameRequired": "Soyadınızı daxil edin",
+        "emailRequired": "Emailinizi daxil edin",
+        "emailInvalid": "Düzgün email daxil edin",
+        "phoneRequired": "Telefon nömrənizi daxil edin",
+        "descriptionRequired": "Mesajınızı daxil edin"
+      }
+    },
+    "bannerAlt": "Əlaqə Banneri"
+  },
+  "categoryDetail": {
+    "breadcrumb": {
+      "home": "Ana səhifə",
+      "category": "Kateqoriyalar"
+    },
+    "firstSection": {
+      "title": "Ürək-Damar Cərrahiyyəsi",
+      "description": "Ürək və damar xəstəlikləri dünya üzrə ən geniş yayılmış sağlamlıq problemlərindəndir. Kliniken Allianz olaraq, bu sahədə ixtisaslaşmış, beynəlxalq təcrübəyə malik həkimlər və yüksək texnologiyalı klinikalarla əməkdaşlıq edirik.",
+      "button": "Müraciət et",
+      "bannerAlt": "Kateqoriya Banneri"
+    },
+    "secondSection": {
+      "title": "Cleveland Clinic",
+      "description": "Cleveland Clinic, qabaqcıl texnologiyalar və peşəkar həkim heyəti ilə ürək-damar xəstəliklərinin müalicəsində dünya səviyyəli xidmətlər təqdim edən, etibarlı və tanınmış bir tibbi mərkəzdir.",
+      "imageAlt": "Cleveland Clinic Şəkli",
+      "button": "Hamısına bax"
+    },
+    "thirdSection": {
+      "title": "Johns Hopkins Medicine",
+      "description": "Johns Hopkins, dünya miqyasında tanınmış tibbi tədqiqat və müalicə mərkəzidir. Ürək-damar xəstəlikləri və cərrahiyyəsi sahəsində qabaqcıl müalicə metodları tətbiq edir.",
+      "imageAlt": "Johns Hopkins Şəkli",
+      "button": "Hamısına bax"
+    },
+    "contact": {
+      "form": {
+        "title": "Əgər hər hansı çətinliklə qarşılaşırsınızsa, bizə müraciət edin.",
+        "labels": {
+          "email": "Email",
+          "description": "Qeyd"
+        },
+        "placeholders": {
+          "email": "examle@gmail.com",
+          "description": ""
+        },
+        "button": "Göndər",
+        "errors": {
+          "emailRequired": "Emailinizi daxil edin",
+          "emailInvalid": "Düzgün email daxil edin",
+          "descriptionRequired": "Mesajınızı daxil edin"
+        }
+      },
+      "imageAlt": "Əlaqə Şəkli"
+    },
+    "services": {
+      "title": "Digər kateqoriyalar",
+      "description": "Beynalxalq səviyyəli klinikalarda müxtəlif tibbi sahələrdə təqdim etdiyimiz xidmətlərdən yararlanın."
+    },
+    "cards": {
+      "cancer": {
+        "name": "Xərçəng müalicəsi",
+        "description": "ABŞ"
+      },
+      "oftamologiya": {
+        "name": "Oftamologiya",
+        "description": "Banqkok"
+      },
+      "ginekologiya": {
+        "name": "Ginekologiya",
+        "description": "İstanbul"
+      },
+      "hepatologiya": {
+        "name": "Hepatologiya",
+        "description": "Sinqapur"
+      }
+    }
+  }
+}
