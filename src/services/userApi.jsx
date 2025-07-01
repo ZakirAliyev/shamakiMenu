@@ -4,7 +4,7 @@ import Cookies from "js-cookie";
 export const userApi = createApi({
     reducerPath: 'userApi',
     baseQuery: fetchBaseQuery({
-        baseUrl: 'https://samaximenuu-001-site1.ltempurl.com/api',
+        baseUrl: 'https://api.greenvillagehotel.az',
         prepareHeaders: (headers) => {
             const token = Cookies.get('natavanToken');
             if (token) {
